@@ -1,0 +1,14 @@
+{
+  "name": "mbr-oop_mybank",
+  "version": "1.0.1",
+  "description": "oop my-bank",
+  "main": "index.js",
+  "type": "module",
+  "bin": "Program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
